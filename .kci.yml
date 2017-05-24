@@ -4,7 +4,7 @@ pipline:
     commands:
       - make
   index.qiniu.com/kci/plugin_docker:
-     repo: nowenl/helloworld
+     repo: nowen/helloworld
      kirk_autoupdate: nowen.myapp/default/helloworld
   index.qiniu.com/kci/plugin_email:
     recipients:
