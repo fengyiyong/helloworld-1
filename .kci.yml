@@ -1,4 +1,4 @@
-pipline:
+pipeline:
   build:
     image: index.qiniu.com/kci/golang-bash:1.6
     commands:
